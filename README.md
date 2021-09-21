@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CheboHorpes
+- 👋 Hi, I’m @Chebo-Hopps
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning Spreadsheets, SQL, R, Tableau 
 - 💞️ I’m looking to collaborate on Data Analytics projects
